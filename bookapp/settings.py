@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'widget_tweaks',
     'bootstrap3',
     'django_forms_bootstrap',
+    'django_heroku',
+    'gunicorn',
 ]
 
 MIDDLEWARE = [
